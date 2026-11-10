@@ -1,0 +1,15 @@
+{
+  "name": "gaeddeok",
+  "version": "0.2.0",
+  "description": "개떡같이 말해도 찰떡같이 알아먹는다. 두서없는 아이디어/생각을 (1) 사람이 읽을 구조화된 기획 브리프로, 또는 (2) AI에 바로 붙여넣을 프롬프트로 정리한다.",
+  "author": {
+    "name": "gaeddeok-chalddeok"
+  },
+  "keywords": [
+    "prompt",
+    "idea",
+    "organize",
+    "korean",
+    "brainstorm"
+  ]
+}
